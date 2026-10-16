@@ -1,0 +1,9 @@
+# Owners' source PDF: 114 MB, over GitHub's 100 MB file limit
+source/
+
+# Body-only copy built for the claude.ai Artifact (build.py); index.html is the real site
+artifact.html
+
+__pycache__/
+.DS_Store
+Thumbs.db
